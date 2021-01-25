@@ -1,2 +1,2 @@
-# GO simple Calculator
-That is my first code in GO I've wrote myself.
+# GO simple calculator
+That is my first code that I've wrote in GO myself.
