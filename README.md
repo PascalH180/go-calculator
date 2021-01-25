@@ -1,2 +1,2 @@
-# effective-adventure
-freeCodeCamp.org: https://www.youtube.com/watch?v=YS4e4q9oBaU
+# GO simple calculator
+That is my first code that I've wrote in GO myself.
